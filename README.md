@@ -1,4 +1,5 @@
 BayesianLab
 ===========
 
-Experiments in Bayesian Statistics
+Repo for my Bayesian related experiments
+
