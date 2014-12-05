@@ -1,5 +1,5 @@
-BayesianLab
+Bayesian Lab
 ===========
 
-Repo for my Bayesian and probabilistic programming related experiments
+Repo for my Bayesian and Probabilistic Programming related experiments
 
